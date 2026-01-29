@@ -15,7 +15,7 @@ I made this project to convert my old Casio keyboard into a MIDI device that wor
 <img src="images/1.jpg"/>
 </p>
 
-# Note that Pin 1 starts at the arrow
+Note that Pin 1 starts at the arrow
 <p align="center">
 <img src="images/2.jpg"/>
 </p>
