@@ -12,19 +12,19 @@ I made this project to convert my old Casio keyboard into a MIDI device that wor
 ##Test Hardware setup
 (I'm making this as a part of a bigger project, so Everything is temporarily wired for testing purposes)
 <p align="center">
-<img src="1.jpg"/>
+<img src="images/1.jpg"/>
 </p>
 
 #Note that Pin 1 starts at the arrow
 <p align="center">
-<img src="2.jpg"/>
+<img src="images/2.jpg"/>
 </p>
 
 ##Schematics and circuit diagram
 I had to manually test and trace the paths to figure out the rows and columns.
 <p align="center">
-<img src="3.jpg"/>
+<img src="images/3.jpg"/>
 </p>
 <p align="center">
-<img src="circuit.png"/>
+<img src="images/circuit.png"/>
 </p>
