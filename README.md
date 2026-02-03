@@ -30,4 +30,4 @@ I had to manually test and trace the paths to figure out the rows and columns.
 </p>
 
 ## Bugs, fixes, and possible feature suggestions:
-@daniperera.main@gmail.com
+daniperera.main@gmail.com
