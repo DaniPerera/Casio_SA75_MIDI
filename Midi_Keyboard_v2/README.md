@@ -1,7 +1,8 @@
-## Casio SA-75 MIDI conversion
-I made this project to convert my old Casio keyboard into a MIDI device that works with almost any DAW that supports USB MIDI using an Arduino Pro Micro clone.
+## Casio SA-75 MIDI conversion V2
+#BETA
+This is the upgraded version of the previous MIDI conversion kit.
 
-### Features
+*/ ### Features
 - Plug & Play (Does not require any additional software)
 - Should work with most DAWs (Only tested in FL Studio and Ableton Live, but key tested in MidiView).
 
@@ -28,6 +29,7 @@ I had to manually test and trace the paths to figure out the rows and columns.
 <p align="center">
 <img src="images/circuit.png"/>
 </p>
+/*
 
 ## Bugs, fixes, and possible feature suggestions:
 daniperera.main@gmail.com
