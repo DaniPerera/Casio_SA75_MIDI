@@ -1,6 +1,6 @@
 ## Casio SA-75 MIDI conversion V2
-#BETA
-This is the upgraded version of the previous MIDI conversion kit.
+# BETA
+## This is the upgraded version of the previous MIDI conversion kit.
 
 ### Features
 - Same features as the previous one
